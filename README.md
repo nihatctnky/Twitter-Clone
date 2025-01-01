@@ -13,3 +13,20 @@ Beğeniler, Firestore'da kullanıcıların etkileşimde bulundukları tweet'leri
 
 # Kütüphaneler
 
+ * React-router-dom
+ 
+ * React-toastify
+   
+ * React-icons
+
+ * Moment
+
+ * Uuid
+
+ * Firebase
+
+ * Tailwindcss
+
+# Ekran Gif
+
+
