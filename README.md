@@ -29,4 +29,5 @@ Beğeniler, Firestore'da kullanıcıların etkileşimde bulundukları tweet'leri
 
 # Ekran Gif
 
+![Video Screen1735750699972](https://github.com/user-attachments/assets/968d5748-861f-412d-9439-252434339cd2)
 
