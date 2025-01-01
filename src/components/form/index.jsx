@@ -6,7 +6,7 @@ import { IoMdClose } from "react-icons/io";
 import { toast } from "react-toastify";
 import { db } from "../../firebase/index";
 import { addDoc, collection, serverTimestamp } from "firebase/firestore";
-import uploadToStorage from "../../firebase/uploadToStrorage";
+import uploadToStorage from "../../firebase/uploadToStorage";
 import Loader from "../loader";
 import React from "react";
 
